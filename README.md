@@ -4,4 +4,4 @@
 
 #### :sleepy: [VS混编C++和C](https://github.com/swordboyASS/Variable-Problem/blob/master/VS%E6%B7%B7%E7%BC%96C%2B%2B%E5%92%8CC.md)
 
-#### :sleepy: [VC++5.11调试即崩溃]()
+#### :sleepy: [VC++5.11调试即崩溃](https://github.com/swordboyASS/Variable-Problem/blob/master/VC%2B%2B5.11%E8%B0%83%E8%AF%95%E5%8D%B3%E5%B4%A9%E6%BA%83.md)
