@@ -6,4 +6,4 @@
 
 #### :sleepy: [VC++5.11调试即崩溃](https://github.com/swordboyASS/Variable-Problem/blob/master/VC%2B%2B5.11%E8%B0%83%E8%AF%95%E5%8D%B3%E5%B4%A9%E6%BA%83.md)
 
-#### :sleepy: [ [Error] stray '\241' in program ]()
+#### :sleepy: [ [Error] stray '\241' in program ](https://github.com/swordboyASS/Variable-Problem/blob/master/%5BError%5D%20stray%20'%5C241'%20in%20program.md)
